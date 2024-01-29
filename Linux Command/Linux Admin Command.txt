@@ -1,0 +1,62 @@
+Assignment No 7
+Q)Perform all the linux admin commands.
+1. **File and Directory Management:**
+   - `ls`: List directory contents.
+   - `cp`: Copy files or directories.
+   - `mv`: Move or rename files/directories.
+   - `rm`: Remove files or directories.
+   - `mkdir`: Create directories.
+   - `rmdir`: Remove empty directories.
+   - `chmod`: Change file permissions.
+   - `chown`: Change file owner or group.
+
+2. **System Information:**
+   - `uname`: Display system information.
+   - `hostname`: Display or set the system hostname.
+   - `df`: Show disk space usage.
+   - `free`: Display amount of free and used memory.
+
+3. **User and Group Management:**
+   - `useradd`: Add a user.
+   - `userdel`: Delete a user.
+   - `passwd`: Change user password.
+   - `groupadd`: Add a group.
+   - `groupdel`: Delete a group.
+   - `usermod`: Modify user properties.
+   - `groups`: Display groups a user is in.
+
+4. **Process Management:**
+   - `ps`: Display information about processes.
+   - `top`: Display and update sorted information about processes.
+   - `kill`: Terminate a process.
+   - `pkill`: Send signals to processes based on their name.
+   - `killall`: Kill processes by name.
+
+5. **System Services:**
+   - `systemctl`: Control the systemd system and service manager.
+   - `service`: Command to run System V init scripts.
+   - `chkconfig`: Update and query runlevel information for system services.
+
+6. **Network Configuration:**
+   - `ifconfig` or `ip`: Display or configure network interfaces.
+   - `route`: Show or manipulate the IP routing table.
+   - `netstat`: Display network connections and routing tables.
+   - `ss`: Display socket statistics.
+   - `ping`: Test network connectivity.
+   - `traceroute`: Trace the route that packets take to reach a network host.
+
+7. **Package Management:**
+   - `apt` (Debian/Ubuntu) or `yum` (RHEL/CentOS): Package management commands.
+   - `dpkg`: Debian package management.
+   - `rpm`: Red Hat Package Manager.
+
+8. **Log Files:**
+   - `tail`: Display the last part of a file.
+   - `head`: Display the first part of a file.
+   - `cat`: Concatenate and display files.
+   - `journalctl`: Query and display messages from the journal.
+
+9. **System Maintenance:**
+   - `shutdown`: Shutdown or restart the system.
+   - `reboot`: Reboot the system.
+   - `cron`: Schedule tasks to run periodically.
